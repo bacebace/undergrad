@@ -7,4 +7,4 @@ Original files can be found here:
 
 https://drive.google.com/drive/folders/1A8zsKg8NcHp8CbYJKNXFQSznCk3pBdrw?usp=sharing
 
-I suggest accessing them on Google Colab because there are several sections.
+I suggest accessing the code on Google Colab because there are several sections.
